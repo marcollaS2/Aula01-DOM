@@ -1,0 +1,35 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #45a33c;
+}
+
+.title {
+    text-align: center;
+}
+
+.peso,
+.altura {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #e61010;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+}
+
+.text-body {
+    margin-top: 10px;
+    text-align: center;
+    display: none;
+    color: rgb(190, 12, 12);
+}
